@@ -2,7 +2,8 @@
 
 # Locomotive fetured works
 
-## Inspired By [Locomotive](https://locomotive.ca/en)
+## Inspired By [Locomotive](https://locomotive.ca/en) 
+#### Pictures from [Cosmos](https://cosmos.so)
 
 ## [Live Demo](https://locomotive-projects.vercel.app/)
 

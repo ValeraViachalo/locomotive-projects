@@ -2,21 +2,21 @@
   {
     "title1": "Jean",
     "title2": "Prouvé",
-    "image": "/images/projects/flower.gif"
+    "image": "/images/projects/flower.webp"
   },
   {
     "title1": "Charlotte",
     "title2": "Lapalus",
-    "image": "/images/projects/charlotte.jpeg"
+    "image": "/images/projects/charlotte.webp"
   },
   {
     "title1": "Cosmos",
     "title2": "",
-    "image": "/images/projects/cosmos.jpg"
+    "image": "/images/projects/cosmos.webp"
   },
   {
-    "title1": "Faded",
-    "title2": "Tumblr",
-    "image": "/images/projects/faded.jpg"
+    "title1": "",
+    "title2": "Faded",
+    "image": "/images/projects/faded.webp"
   }
 ]
