@@ -1,6 +1,14 @@
 @font-face {
   font-family: NeueHaasDisplay;
-  src: url("/public/font/NeueHaasDisplay/NeueHaasDisplayRoman.ttf")
+  src: url("/public/font/NeueHaasDisplay/NeueHaasDisplayThin.ttf")
+    format("opentype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: NeueHaasDisplay;
+  src: url("/public/font/NeueHaasDisplay/NeueHaasDisplayLight.ttf")
     format("opentype");
   font-weight: normal;
   font-style: normal;

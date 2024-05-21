@@ -16,7 +16,7 @@ export const Menu = {
       height: 0,
       transition: {
         duration: 1,
-        delay: .2,
+        delay: 0.2,
         ease: [0.76, 0, 0.24, 1],
       },
     },
@@ -28,14 +28,14 @@ export const Menu = {
     enter: {
       opacity: 1,
       transition: {
-        duration: .5,
+        duration: 0.5,
         delay: 1,
       },
     },
     exit: {
       opacity: 0,
-    }
-  }
+    },
+  },
 };
 
 export const blogAnim = {
@@ -52,5 +52,14 @@ export const blogAnim = {
       opacity: 0,
       filter: "blur(1vw)",
     },
-  }
+  },
+};
+
+export const ProjectsCardAnim = {
+  initial: { width: 0 },
+  animate: {
+    width: "auto",
+    transition: { duration: 0.4, ease: [0.23, 1, 0.32, 1] },
+  },
+  exit: { width: 0 },
 };
